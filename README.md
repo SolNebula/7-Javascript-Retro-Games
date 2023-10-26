@@ -1,1 +1,1 @@
-# 7-Javascript-Retro-Games
+# 7 Retro Games (JavaScript)
