@@ -1,1 +1,1 @@
-# 7 Retro Games (JavaScript)
+# 7 Retro Games (JavaScript & Python)
